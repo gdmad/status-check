@@ -13,8 +13,6 @@ sites:
     url: $VRC
   - name: DZD
     url: $DZD
-  - name: test
-    url: https://123.test
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
