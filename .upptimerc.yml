@@ -13,6 +13,8 @@ sites:
     url: $VRC
   - name: DZD
     url: $DZD
+  - name: test
+    url: https://123.test
     
 workflowSchedule:
   uptime: "*/10 * * * *"
