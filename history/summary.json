@@ -58,19 +58,19 @@
     "url": "$VRC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vrc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2068,
-    "timeDay": 2037,
-    "timeWeek": 2068,
-    "timeMonth": 2068,
-    "timeYear": 2068,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 2057,
+    "timeDay": 1963,
+    "timeWeek": 2057,
+    "timeMonth": 2057,
+    "timeYear": 2057,
     "dailyMinutesDown": {
-      "2021-11-27": 0
+      "2021-11-27": 19
     }
   },
   {
