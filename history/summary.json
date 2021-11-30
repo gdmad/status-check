@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1542,
-    "timeDay": 881,
+    "timeDay": 898,
     "timeWeek": 1768,
     "timeMonth": 1542,
     "timeYear": 1542,
@@ -40,9 +40,9 @@
     "url": "$VRBG",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vrbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 942,
     "timeMonth": 949,
     "timeYear": 949,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-30": 0
+    }
   },
   {
     "name": "VRC",
