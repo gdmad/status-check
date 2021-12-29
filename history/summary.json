@@ -4,18 +4,19 @@
     "url": "$VRBS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vrbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 1282,
     "timeDay": 905,
     "timeWeek": 869,
-    "timeMonth": 1100,
+    "timeMonth": 1107,
     "timeYear": 1282,
     "dailyMinutesDown": {
+      "2021-12-29": 0,
       "2021-12-28": 16,
       "2021-12-21": 22
     }
