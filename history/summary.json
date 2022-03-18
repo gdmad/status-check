@@ -33,19 +33,19 @@
     "url": "$VRBT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vrbt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 678,
-    "timeWeek": 870,
-    "timeMonth": 928,
-    "timeYear": 1062,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1063,
+    "timeDay": 851,
+    "timeWeek": 900,
+    "timeMonth": 936,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2022-03-18": 0
+      "2022-03-18": 22
     }
   },
   {
