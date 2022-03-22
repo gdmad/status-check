@@ -96,17 +96,19 @@
     "url": "$DZD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dzd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 261,
-    "timeWeek": 408,
-    "timeMonth": 407,
+    "timeDay": 357,
+    "timeWeek": 414,
+    "timeMonth": 409,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 0
+    }
   }
 ]
