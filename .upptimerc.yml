@@ -11,8 +11,8 @@ sites:
     url: $VRBG
   - name: VRC
     url: $VRC
-#  - name: BLW
-#    url: $BLW
+  - name: BLW
+    url: $BLW
   - name: DZD
     url: $DZD
     
