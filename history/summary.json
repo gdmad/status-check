@@ -93,19 +93,19 @@
     "url": "$BLW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blw",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 570,
-    "timeWeek": 563,
-    "timeMonth": 567,
-    "timeYear": 670,
+    "time": 772,
+    "timeDay": 8113,
+    "timeWeek": 2449,
+    "timeMonth": 1025,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2023-04-01": 0
+      "2023-04-01": 6
     }
   },
   {
