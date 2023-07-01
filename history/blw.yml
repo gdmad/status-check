@@ -1,7 +1,7 @@
 url: $BLW
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2023-07-01T10:28:39.935Z
+status: down
+code: 403
+responseTime: 79
+lastUpdated: 2023-07-01T10:36:04.068Z
 startTime: Wed Nov 16 2022 23:56:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
