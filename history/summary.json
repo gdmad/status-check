@@ -1,5 +1,49 @@
 [
   {
+    "name": "VRBS",
+    "url": "$VRBS",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrbs",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 939,
+    "timeDay": 369,
+    "timeWeek": 407,
+    "timeMonth": 463,
+    "timeYear": 545,
+    "dailyMinutesDown": {
+      "2023-07-01": 204,
+      "2023-03-11": 22,
+      "2022-10-13": 17,
+      "2022-08-22": 44
+    }
+  },
+  {
+    "name": "VRBT",
+    "url": "$VRBT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrbt",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 658,
+    "timeDay": 347,
+    "timeWeek": 402,
+    "timeMonth": 517,
+    "timeYear": 652,
+    "dailyMinutesDown": {
+      "2023-07-01": 204,
+      "2022-08-22": 16
+    }
+  },
+  {
     "name": "VRBG",
     "url": "$VRBG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -10,13 +54,76 @@
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
-    "time": 730,
-    "timeDay": 371,
-    "timeWeek": 415,
-    "timeMonth": 522,
+    "time": 729,
+    "timeDay": 382,
+    "timeWeek": 424,
+    "timeMonth": 525,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2023-07-01": 126
+    }
+  },
+  {
+    "name": "VRC",
+    "url": "$VRC",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrc",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 1056,
+    "timeDay": 532,
+    "timeWeek": 606,
+    "timeMonth": 734,
+    "timeYear": 985,
+    "dailyMinutesDown": {
+      "2023-07-01": 205
+    }
+  },
+  {
+    "name": "BLW",
+    "url": "$BLW",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "blw",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 675,
+    "timeDay": 362,
+    "timeWeek": 405,
+    "timeMonth": 479,
+    "timeYear": 675,
+    "dailyMinutesDown": {
+      "2023-07-01": 205
+    }
+  },
+  {
+    "name": "DZD",
+    "url": "$DZD",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "dzd",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 396,
+    "timeDay": 202,
+    "timeWeek": 231,
+    "timeMonth": 288,
+    "timeYear": 361,
+    "dailyMinutesDown": {
+      "2023-07-01": 205,
+      "2023-05-07": 94,
+      "2023-01-23": 28,
+      "2022-12-23": 41
     }
   }
 ]
