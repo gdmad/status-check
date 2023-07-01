@@ -1,7 +1,7 @@
 url: $VRBG
-status: up
-code: 200
-responseTime: 653
-lastUpdated: 2023-07-01T08:40:26.565Z
+status: down
+code: 403
+responseTime: 83
+lastUpdated: 2023-07-01T08:45:50.250Z
 startTime: Sun Nov 21 2021 20:05:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
