@@ -1,20 +1,21 @@
 # Change these first
 owner: gdmad # Your GitHub organization or username, where this repository lives
 repo: status-check # The name of this repository
+user-agent: VRB-Status-Check
 
 sites:
-  - name: VRBS
-    url: $VRBS
-  - name: VRBT
-    url: $VRBT
+  # - name: VRBS
+    # url: $VRBS
+  # - name: VRBT
+    # url: $VRBT
   - name: VRBG
     url: $VRBG
-  - name: VRC
-    url: $VRC
-  - name: BLW
-    url: $BLW
-  - name: DZD
-    url: $DZD
+  # - name: VRC
+    # url: $VRC
+  # - name: BLW
+    # url: $BLW
+  # - name: DZD
+    # url: $DZD
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
