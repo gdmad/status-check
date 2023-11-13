@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 573,
-    "timeDay": 675,
-    "timeWeek": 661,
+    "timeDay": 526,
+    "timeWeek": 619,
     "timeMonth": 659,
     "timeYear": 576,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 649,
-    "timeDay": 676,
-    "timeWeek": 641,
-    "timeMonth": 653,
-    "timeYear": 641,
+    "timeDay": 574,
+    "timeWeek": 622,
+    "timeMonth": 649,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2023-07-01": 204
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 692,
-    "timeDay": 610,
-    "timeWeek": 671,
-    "timeMonth": 689,
-    "timeYear": 711,
+    "time": 691,
+    "timeDay": 558,
+    "timeWeek": 651,
+    "timeMonth": 686,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2023-07-01": 126
     }
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 974,
-    "timeDay": 910,
-    "timeWeek": 937,
-    "timeMonth": 947,
+    "time": 973,
+    "timeDay": 804,
+    "timeWeek": 900,
+    "timeMonth": 945,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2023-08-15": 19,
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 653,
-    "timeDay": 591,
-    "timeWeek": 606,
-    "timeMonth": 610,
-    "timeYear": 647,
+    "timeDay": 536,
+    "timeWeek": 581,
+    "timeMonth": 604,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2023-07-01": 205
     }
@@ -111,12 +111,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
-    "time": 438,
-    "timeDay": 617,
-    "timeWeek": 733,
+    "uptimeYear": "99.46%",
+    "time": 439,
+    "timeDay": 650,
+    "timeWeek": 707,
     "timeMonth": 736,
-    "timeYear": 439,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2023-08-24": 685,
       "2023-07-01": 205,
