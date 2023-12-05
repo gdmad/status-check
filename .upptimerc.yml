@@ -14,7 +14,7 @@ sites:
   - name: BLW
     url: $BLW
   - name: BLWJN
-    url: $BLW_JN
+    url: $JN_BLW
   - name: DZD
     url: $DZD
     
