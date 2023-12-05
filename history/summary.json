@@ -21,6 +21,24 @@
     }
   },
   {
+    "name": "VRBSJN",
+    "url": "$JN_VRBS",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrbsjn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "VRBT",
     "url": "$VRBT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -32,13 +50,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 648,
-    "timeDay": 607,
+    "timeDay": 610,
     "timeWeek": 633,
-    "timeMonth": 654,
+    "timeMonth": 653,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2023-07-01": 204
     }
+  },
+  {
+    "name": "VRBTJN",
+    "url": "$JN_VRBT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrbtjn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 558,
+    "timeDay": 558,
+    "timeWeek": 558,
+    "timeMonth": 558,
+    "timeYear": 558,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VRBG",
@@ -51,14 +87,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 692,
-    "timeDay": 640,
-    "timeWeek": 651,
+    "time": 691,
+    "timeDay": 642,
+    "timeWeek": 652,
     "timeMonth": 661,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2023-07-01": 126
     }
+  },
+  {
+    "name": "VRBGJN",
+    "url": "$JN_VRBG",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrbgjn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VRC",
@@ -72,13 +126,33 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 970,
-    "timeDay": 993,
-    "timeWeek": 955,
-    "timeMonth": 950,
+    "timeDay": 989,
+    "timeWeek": 956,
+    "timeMonth": 951,
     "timeYear": 980,
     "dailyMinutesDown": {
       "2023-08-15": 19,
       "2023-07-01": 205
+    }
+  },
+  {
+    "name": "VRCJN",
+    "url": "$JN_VRC",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vrcjn",
+    "status": "down",
+    "uptime": "1.77%",
+    "uptimeDay": "1.77%",
+    "uptimeWeek": "1.77%",
+    "uptimeMonth": "1.77%",
+    "uptimeYear": "1.77%",
+    "time": 12,
+    "timeDay": 12,
+    "timeWeek": 12,
+    "timeMonth": 12,
+    "timeYear": 12,
+    "dailyMinutesDown": {
+      "2023-12-05": 0
     }
   },
   {
@@ -93,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 653,
-    "timeDay": 750,
-    "timeWeek": 671,
-    "timeMonth": 639,
+    "timeDay": 730,
+    "timeWeek": 665,
+    "timeMonth": 638,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2023-07-01": 205
@@ -112,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 262,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -130,11 +204,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
-    "time": 443,
-    "timeDay": 783,
-    "timeWeek": 853,
-    "timeMonth": 833,
-    "timeYear": 479,
+    "time": 444,
+    "timeDay": 778,
+    "timeWeek": 847,
+    "timeMonth": 831,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2023-08-24": 685,
       "2023-07-01": 205,
