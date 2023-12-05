@@ -5,14 +5,24 @@ repo: status-check # The name of this repository
 sites:
   - name: VRBS
     url: $VRBS
+  - name: VRBSJN
+    url: $VRBSJN
   - name: VRBT
     url: $VRBT
+  - name: VRBTJN
+    url: $VRBTJN
   - name: VRBG
     url: $VRBG
+  - name: VRBGJN
+    url: $VRBGJN
   - name: VRC
     url: $VRC
+  - name: VRCJN
+    url: $VRCJN
   - name: BLW
     url: $BLW
+  - name: BLWJN
+    url: $BLWJN
   - name: DZD
     url: $DZD
     
