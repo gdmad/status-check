@@ -13,8 +13,6 @@ sites:
     url: $VRC
   - name: BLW
     url: $BLW
-  - name: BLWJN
-    url: $JN_BLW
   - name: DZD
     url: $DZD
     
