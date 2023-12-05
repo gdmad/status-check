@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 595,
-    "timeDay": 614,
-    "timeWeek": 631,
-    "timeMonth": 649,
+    "timeDay": 629,
+    "timeWeek": 639,
+    "timeMonth": 652,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2023-07-01": 204,
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrcjn",
     "status": "down",
-    "uptime": "1.77%",
-    "uptimeDay": "1.77%",
-    "uptimeWeek": "1.77%",
-    "uptimeMonth": "1.77%",
-    "uptimeYear": "1.77%",
+    "uptime": "0.66%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.66%",
+    "uptimeMonth": "0.66%",
+    "uptimeYear": "0.66%",
     "time": 12,
     "timeDay": 12,
     "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 1
     }
   },
   {
