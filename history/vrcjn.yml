@@ -1,7 +1,7 @@
 url: $JN_VRC
-status: down
-code: 403
-responseTime: 11
-lastUpdated: 2023-12-17T00:48:45.575Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2023-12-17T11:21:03.335Z
 startTime: 2023-12-05T18:02:27.480Z
 generator: Upptime <https://github.com/upptime/upptime>
