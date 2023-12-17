@@ -140,19 +140,19 @@
     "url": "$JN_VRC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrcjn",
-    "status": "down",
-    "uptime": "96.28%",
-    "uptimeDay": "56.44%",
-    "uptimeWeek": "93.78%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "96.28%",
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "56.09%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "96.25%",
     "time": 575,
-    "timeDay": 329,
-    "timeWeek": 578,
+    "timeDay": 415,
+    "timeWeek": 579,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2023-12-17": 627
+      "2023-12-17": 632
     }
   },
   {
