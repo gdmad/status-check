@@ -1,7 +1,7 @@
 url: $JN_BLW
-status: up
-code: 200
-responseTime: 480
-lastUpdated: 2023-12-16T23:11:12.734Z
+status: down
+code: 403
+responseTime: 8
+lastUpdated: 2023-12-17T00:48:48.372Z
 startTime: 2023-12-05T17:25:25.142Z
 generator: Upptime <https://github.com/upptime/upptime>
