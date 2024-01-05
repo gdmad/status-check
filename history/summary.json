@@ -25,19 +25,19 @@
     "url": "$JN_VRBS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbsjn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 515,
-    "timeDay": 539,
-    "timeWeek": 563,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 514,
+    "timeDay": 510,
+    "timeWeek": 553,
+    "timeMonth": 514,
+    "timeYear": 514,
     "dailyMinutesDown": {
-      "2024-01-05": 4
+      "2024-01-05": 15
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$JN_VRBT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbtjn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 589,
-    "timeDay": 635,
-    "timeWeek": 629,
+    "timeDay": 608,
+    "timeWeek": 623,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-01-05": 3
+      "2024-01-05": 13
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "$JN_VRBG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbgjn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 582,
-    "timeDay": 660,
-    "timeWeek": 610,
+    "timeDay": 621,
+    "timeWeek": 607,
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-01-05": 1
+      "2024-01-05": 12
     }
   },
   {
