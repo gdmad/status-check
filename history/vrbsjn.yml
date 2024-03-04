@@ -1,7 +1,7 @@
 url: $JN_VRBS
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2024-03-03T23:10:48.460Z
+status: down
+code: 502
+responseTime: 74
+lastUpdated: 2024-03-04T13:35:16.620Z
 startTime: 2023-12-05T18:02:21.691Z
 generator: Upptime <https://github.com/upptime/upptime>
