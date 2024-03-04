@@ -1,7 +1,7 @@
 url: $JN_VRBT
-status: down
-code: 502
-responseTime: 74
-lastUpdated: 2024-03-04T13:35:21.327Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2024-03-04T13:40:43.433Z
 startTime: 2023-12-05T18:02:23.442Z
 generator: Upptime <https://github.com/upptime/upptime>
