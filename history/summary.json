@@ -65,19 +65,19 @@
     "url": "$JN_VRBT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbtjn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 579,
-    "timeWeek": 609,
-    "timeMonth": 610,
+    "timeDay": 638,
+    "timeWeek": 620,
+    "timeMonth": 613,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-04-26": 0
+      "2024-04-26": 4
     }
   },
   {
