@@ -14,7 +14,7 @@
     "timeDay": 781,
     "timeWeek": 703,
     "timeMonth": 683,
-    "timeYear": 685,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2024-01-21": 39
     }
@@ -105,18 +105,16 @@
     "slug": "vrbgjn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
     "timeDay": 685,
     "timeWeek": 610,
     "timeMonth": 632,
     "timeYear": 617,
-    "dailyMinutesDown": {
-      "2024-07-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VRC",
@@ -175,7 +173,7 @@
     "timeDay": 572,
     "timeWeek": 534,
     "timeMonth": 629,
-    "timeYear": 612,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-01-24": 15
     }
@@ -206,18 +204,19 @@
     "url": "$DZD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dzd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 627,
-    "timeDay": 930,
-    "timeWeek": 713,
-    "timeMonth": 711,
-    "timeYear": 728,
+    "time": 628,
+    "timeDay": 952,
+    "timeWeek": 745,
+    "timeMonth": 717,
+    "timeYear": 729,
     "dailyMinutesDown": {
+      "2024-07-01": 0,
       "2024-05-06": 85,
       "2024-05-05": 19,
       "2024-04-26": 93,
