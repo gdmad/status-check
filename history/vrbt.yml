@@ -1,7 +1,7 @@
 url: $VRBT
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2024-07-10T23:13:03.834Z
+status: down
+code: 502
+responseTime: 212
+lastUpdated: 2024-07-11T17:39:51.588Z
 startTime: 2023-07-01T15:01:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
