@@ -24,10 +24,10 @@
     "url": "$JN_VRBS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbsjn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 645,
@@ -36,6 +36,7 @@
     "timeMonth": 547,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2024-08-09": 2,
       "2024-05-24": 19,
       "2024-01-21": 37
     }
@@ -65,10 +66,10 @@
     "url": "$JN_VRBT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbtjn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
@@ -77,6 +78,7 @@
     "timeMonth": 614,
     "timeYear": 783,
     "dailyMinutesDown": {
+      "2024-08-09": 1,
       "2024-04-26": 16
     }
   },
