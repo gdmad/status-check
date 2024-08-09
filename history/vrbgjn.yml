@@ -1,7 +1,7 @@
 url: $JN_VRBG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-09T22:58:35.732Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2024-08-09T23:08:30.698Z
 startTime: 2023-12-05T18:02:25.277Z
 generator: Upptime <https://github.com/upptime/upptime>
