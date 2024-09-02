@@ -25,6 +25,8 @@ sites:
     url: $JN_BLW
   - name: DZD
     url: $DZD
+  - name: UNZ
+    url: $UNZ  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
