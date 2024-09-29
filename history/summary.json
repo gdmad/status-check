@@ -24,11 +24,11 @@
     "url": "$JN_VRBS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrbsjn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 610,
     "timeDay": 507,
@@ -36,7 +36,7 @@
     "timeMonth": 464,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2024-09-29": 5,
+      "2024-09-29": 0,
       "2024-05-24": 19,
       "2024-01-21": 37
     }
