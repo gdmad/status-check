@@ -1,7 +1,7 @@
 url: $VRBS
-status: up
-code: 200
-responseTime: 711
-lastUpdated: 2024-10-19T23:14:11.838Z
+status: down
+code: 500
+responseTime: 10333
+lastUpdated: 2024-10-20T10:15:32.137Z
 startTime: 2023-07-01T15:00:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
