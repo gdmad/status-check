@@ -1,7 +1,7 @@
 url: $VRC
-status: up
-code: 200
-responseTime: 859
-lastUpdated: 2024-12-11T23:15:16.544Z
+status: down
+code: 500
+responseTime: 813
+lastUpdated: 2024-12-12T08:40:00.719Z
 startTime: 2023-07-01T15:01:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
