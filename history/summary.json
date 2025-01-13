@@ -152,17 +152,19 @@
     "url": "$UNZ",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 338,
-    "timeWeek": 304,
-    "timeMonth": 291,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 314,
+    "timeDay": 1685,
+    "timeWeek": 645,
+    "timeMonth": 374,
+    "timeYear": 314,
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   }
 ]
