@@ -66,19 +66,19 @@
     "url": "$VRC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 926,
-    "timeDay": 1256,
-    "timeWeek": 1026,
-    "timeMonth": 956,
-    "timeYear": 926,
+    "timeDay": 1307,
+    "timeWeek": 1068,
+    "timeMonth": 969,
+    "timeYear": 927,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 6
     }
   },
   {
