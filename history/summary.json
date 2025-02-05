@@ -124,12 +124,12 @@
     "slug": "dzd",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 773,
-    "timeDay": 882,
+    "timeDay": 923,
     "timeWeek": 796,
     "timeMonth": 803,
     "timeYear": 759,
@@ -149,9 +149,9 @@
     "url": "$UNZ",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
@@ -161,6 +161,7 @@
     "timeMonth": 365,
     "timeYear": 308,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2025-01-13": 44
     }
   }
