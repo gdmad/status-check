@@ -104,18 +104,20 @@
     "url": "$ARP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 1235,
-    "timeWeek": 981,
-    "timeMonth": 941,
-    "timeYear": 897,
-    "dailyMinutesDown": {}
+    "time": 890,
+    "timeDay": 688,
+    "timeWeek": 876,
+    "timeMonth": 916,
+    "timeYear": 890,
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   },
   {
     "name": "DZD",
