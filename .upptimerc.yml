@@ -18,7 +18,11 @@ sites:
   - name: DZD
     url: $DZD
   - name: UNZ
-    url: $UNZ  
+    url: $UNZ
+  - name: VRS
+    url: $VRS  
+  - name: VRP
+    url: $VRP
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
