@@ -1,7 +1,7 @@
 url: $UNZ
-status: up
-code: 200
-responseTime: 290
-lastUpdated: 2025-11-18T12:34:04.963Z
+status: down
+code: 500
+responseTime: 131
+lastUpdated: 2025-11-18T13:08:57.568Z
 startTime: 2024-09-02T14:34:47.203Z
 generator: Upptime <https://github.com/upptime/upptime>
