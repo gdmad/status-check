@@ -179,19 +179,19 @@
     "url": "$VRS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrs",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.90%",
-    "time": 448,
-    "timeDay": 439,
-    "timeWeek": 383,
-    "timeMonth": 435,
-    "timeYear": 448,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.87%",
+    "time": 446,
+    "timeDay": 399,
+    "timeWeek": 380,
+    "timeMonth": 433,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-12-17": 70
+      "2025-12-17": 92
     }
   },
   {
