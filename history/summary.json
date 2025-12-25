@@ -200,17 +200,19 @@
     "url": "$VRP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 402,
-    "timeWeek": 521,
-    "timeMonth": 533,
-    "timeYear": 565,
-    "dailyMinutesDown": {}
+    "time": 557,
+    "timeDay": 252,
+    "timeWeek": 469,
+    "timeMonth": 519,
+    "timeYear": 557,
+    "dailyMinutesDown": {
+      "2025-12-25": 0
+    }
   }
 ]
