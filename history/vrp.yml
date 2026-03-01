@@ -1,7 +1,7 @@
 url: $VRP
-status: down
-code: 500
-responseTime: 21159
-lastUpdated: 2026-03-01T12:33:55.897Z
+status: up
+code: 200
+responseTime: 693
+lastUpdated: 2026-03-01T13:23:04.636Z
 startTime: 2025-10-28T18:04:04.119Z
 generator: Upptime <https://github.com/upptime/upptime>
